@@ -18,7 +18,7 @@ public class Testt_testNGDemo
 	@BeforeTest
 	public void setUpTest()
 	{
-		System.getProperty("webdriver.chrome.driver","D:\\myWork\\SeleniumAndJenkin\\SelFrameWork\\driver\\chromedriver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","D:/myWork/SeleniumAndJenkin/SelFrameWork/driver/chromedriver/chromedriver.exe");
 		driver = new ChromeDriver();
 	}
 	
