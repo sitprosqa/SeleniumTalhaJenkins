@@ -17,7 +17,7 @@ public class SomePages
 	}
 	
 	By textBox_search = By.name("q");
-	By button_search = By.name("btnK");
+	By button_search = By.name("btnK"); 
 	
 	public void textBox_search(String text)
 	{
