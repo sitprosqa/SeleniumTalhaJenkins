@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-07T15:26:58 PKT" name="Suite" finished-at="2019-10-07T15:27:16 PKT" duration-ms="18028">
+    <groups>
+    </groups>
+    <test started-at="2019-10-07T15:26:58 PKT" name="Test" finished-at="2019-10-07T15:27:16 PKT" duration-ms="18028">
+      <class name="test.Testt_testNGDemo">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:test.Testt_testNGDemo@70be0a2b]" started-at="2019-10-07T15:26:58 PKT" name="setUpTest" finished-at="2019-10-07T15:27:05 PKT" duration-ms="6606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="Gsearch()[pri:0, instance:test.Testt_testNGDemo@70be0a2b]" started-at="2019-10-07T15:27:10 PKT" name="Gsearch" finished-at="2019-10-07T15:27:14 PKT" duration-ms="3655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gsearch -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.Testt_testNGDemo@70be0a2b]" started-at="2019-10-07T15:27:16 PKT" name="tearDownTest" finished-at="2019-10-07T15:27:16 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.Testt_testNGDemo -->
+      <class name="test.Testt_testNGDemo2">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:test.Testt_testNGDemo2@2133814f]" started-at="2019-10-07T15:27:05 PKT" name="setUpTest" finished-at="2019-10-07T15:27:10 PKT" duration-ms="5640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="Gsearch2()[pri:0, instance:test.Testt_testNGDemo2@2133814f]" started-at="2019-10-07T15:27:10 PKT" name="Gsearch2" finished-at="2019-10-07T15:27:14 PKT" duration-ms="3911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gsearch2 -->
+        <test-method signature="Gsearch3()[pri:0, instance:test.Testt_testNGDemo2@2133814f]" started-at="2019-10-07T15:27:14 PKT" name="Gsearch3" finished-at="2019-10-07T15:27:16 PKT" duration-ms="1819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gsearch3 -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:test.Testt_testNGDemo2@2133814f]" started-at="2019-10-07T15:27:16 PKT" name="tearDownTest" finished-at="2019-10-07T15:27:16 PKT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- test.Testt_testNGDemo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
